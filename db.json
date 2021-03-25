@@ -1,35 +1,35 @@
 {
-    data: [
+    "data": [
       {
-        productId: "",
-        productName: "testName2",
-        productMrp: 3444,
-        isActive: 1,
-        productDescription: "test desc",
-        isNew: 1,
-        weblink: "testlink",
-        additionDate: "2021-03-03",
+        "productId": "",
+        "productName": "testName2",
+        "productMrp": 3444,
+        "isActive": 1,
+        "productDescription": "test desc",
+        "isNew": 1,
+        "weblink": "testlink",
+        "additionDate": "2021-03-03",
       },
       {
-        productId: "0101",
-        productName: "testName2",
-        productMrp: 3444,
-        isActive: 1,
-        productDescription: "test desc",
-        isNew: 1,
-        weblink: "testlink",
-        additionDate: "2021-03-04",
+        "productId": "0101",
+        "productName": "testName2",
+        "productMrp": 3444,
+        "isActive": 1,
+        "productDescription": "test desc",
+        "isNew": 1,
+        "weblink": "testlink",
+        "additionDate": "2021-03-04",
       },
       {
-        productId: "1",
-        productName: "Aloevera Cleansing Milk",
-        productMrp: 646,
-        isActive: 1,
-        productDescription:
+        "productId": "1",
+        "productName": "Aloevera Cleansing Milk",
+        "productMrp": 646,
+        "isActive": 1,
+        "productDescription":
           "Sample description will be available here. This will contain of all product description and its substituent products",
-        isNew: 0,
-        weblink: "",
-        additionDate: "2020-12-31",
+        "isNew": 0,
+        "weblink": "",
+        "additionDate": "2020-12-31",
       },
-    ]
-}
+    ],
+  }
